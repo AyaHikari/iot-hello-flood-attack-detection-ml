@@ -75,20 +75,6 @@ while addressing **real-world challenges like class imbalance and temporal behav
 - **SMOTE Before Split** provided the most consistent performance  
 - **Deep Learning models (LSTM/GRU)** required larger datasets for optimal results  
 
-## Repository Structure
-├── notebooks/
-│ ├── 01_baseline_no_smote.ipynb
-│ ├── 02_smote_after_split.ipynb
-│ ├── 03_smote_before_split.ipynb
-│ ├── 04_manual_downsampling.ipynb
-│ └── 05_comparative_analysis.ipynb
-│
-├── reports/
-│ ├── proposal_report.pdf
-│ └── final_report.pdf
-│
-└── README.md
-
 ## Project Highlights
 
 - Tackles **real-world IoT security problem**
